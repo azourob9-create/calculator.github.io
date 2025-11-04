@@ -1,23 +1,5 @@
-.rwe{
- display: flex;
- justify-content: center;
- align-items: center;
-}
 
-.ter{
-    font-size: 20px;
-    color: red;
-    margin: 10px;
-}
 
-.forg{
-    display: flex;
-    justify-content: space-around;
-}
-
-.calc1{
-    margin-bottom: 100px;
-}
 
 .for12{
     display: flex;
@@ -62,4 +44,5 @@ padding: 50px;
 .border{
     border: 1px solid;
     border-radius:7px ;
+
 }
